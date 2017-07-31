@@ -1,0 +1,1 @@
+<p><a href = "index.php?test_id_admin={TEST_ID}&test_name_admin={TEST_NAME}" target="_blank">{TEST_NAME}</a></p>

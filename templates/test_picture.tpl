@@ -1,0 +1,1 @@
+<img src="upload_images/{PIC}" alt=""><br>

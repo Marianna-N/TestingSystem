@@ -1,0 +1,1 @@
+<input type="radio" name="{Q_ID}" value="{ANSWER_ID}"><p>{TEST_ANSWER}</p><br>

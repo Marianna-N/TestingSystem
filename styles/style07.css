@@ -1,0 +1,15 @@
+img{
+	float:left;
+	padding-top:15px;
+}
+img:hover{
+	cursor:pointer;
+}
+input[type="radio"]{
+	float:left;
+}
+span{
+	float:left;
+	padding-top:8px;
+	padding-right: 5px;
+}

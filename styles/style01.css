@@ -1,0 +1,70 @@
+body
+{
+	padding-top:20px;
+	font-family:Arial;
+	font-size:12px;
+	background:#f7f7f7;
+	color:#4F4C49;
+}
+#form_login, #form_key, #form_registration{
+	background:white;
+	width:310px;
+	margin:15px;
+	padding:20px;
+	padding-top:20px;
+	border:1px solid #5E5C5A;
+	border-radius:5px;
+	margin:auto;
+	margin-top:15px;
+	text-align:left;
+}
+h2{
+	font-size:15px;
+	text-align:center;
+}
+input{
+	margin-top:5px;
+	padding:1px;
+	padding-left:5px;
+	height:30px;
+	border:1px solid #e0e0e0;
+	width:290px;
+}
+label{
+	display:inline-block;
+	padding-top:15px;
+}
+.button{
+	background-color:#F6921B;
+	height:35px;
+	width:290px;
+	color:white;
+	border-radius:5px;
+	font-size:15px;
+}
+.button:focus{
+	outline:none;
+}
+.button:hover{
+	cursor:pointer;
+}
+#checkbox{
+	width:15px;
+	float:left;
+	margin-left:10px;
+}
+#label_remember{
+	text-align:left;
+	margin-top:13px;
+	margin-left:30px;
+}
+#link_registration{
+	clear:both;
+	margin-left:10px;
+}
+.error_message{
+	color:red;
+	text-align:center;
+}
+
+
